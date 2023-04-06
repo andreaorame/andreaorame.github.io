@@ -1,6 +1,6 @@
 # <h1 align="center">*Andrea Orame*</h1>
 
-<code style="color : blue">Andrea Orame</code>
+# <code style="color : blue">*Andrea Orame*</code>
 
 Economist at Bank of Italy - andrea.orame@bancaditalia.it
 
