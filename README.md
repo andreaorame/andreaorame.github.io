@@ -1,4 +1,4 @@
-# <h1 align="center">Andrea Orame</h1>
+# <h1 align="center">*Andrea Orame*</h1>
 
 <code style="color : blue">Andrea Orame</code>
 
