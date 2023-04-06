@@ -1,4 +1,4 @@
-# <h1 align="center">*Andrea Orame*</h1>
+# <h1 align="center">Andrea Orame</h1>
 
 <code style="color : blue">Andrea Orame</code>
 
@@ -9,7 +9,7 @@ Research interests: banking, corporate finance, monetary and macroprudential pol
 Andrea's research interests are in the domain of banking and applied econometrics. His work covered the role of bank supply during European debt crisis, the interaction of unconvential and macropudential policy and the functioning of credit market during the COVID crisis. He developed an expertise on loan officers' survey data on which he is currently working to improve our understanding on how banks' expectations shape the business and the credit cycle.
 
 ## Published paper
-"[Bank Lending and the European Debt Crisis: Evidence from a New Survey](https://www.ijcb.org/journal/ijcb23q1a5.htm)." *International Journal of Central Banking* 19.1 (2023): 243-300.
+"[Bank Lending and the European Debt Crisis: Evidence from a New Survey](https://www.ijcb.org/journal/ijcb23q1a5.htm)." *International Journal of Central Banking* 19.1 (2023): 243-300
 
 ## Working papers
 "Macroprudential Regulation, Quantitative Easing, and Bank Lending*" with Rodney Ramcharan and Roberto Robatto\\
