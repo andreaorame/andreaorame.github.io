@@ -1,6 +1,6 @@
 # $${\color{blue} Andrea \space Orame}$$
 
-Economist at Bank of Italy - andrea.orame@bancaditalia.it
+Economist at Bank of Italy - andrea.orame@bancaditalia.it - $${\color{blue} Andrea \space Orame}$$
 
 Research interests: banking, corporate finance, monetary and macroprudential policy
 
