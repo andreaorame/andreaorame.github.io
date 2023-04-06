@@ -1,5 +1,7 @@
 # <h1 align="center">*Andrea Orame*</h1>
 
+<code style="color : blue">Andrea Orame</code>
+
 Economist at Bank of Italy - andrea.orame@bancaditalia.it
 
 Research interests: banking, corporate finance, monetary and macroprudential policy
