@@ -1,6 +1,6 @@
-# $${\color{blue} Andrea \space Orame}$$
+# <h1 align="center">Andrea Orame</h1>
 
-Economist at Bank of Italy - andrea.orame@bancaditalia.it - $${\color{blue} Andrea \space Orame}$$
+Economist at Bank of Italy - andrea.orame@bancaditalia.it
 
 Research interests: banking, corporate finance, monetary and macroprudential policy
 
@@ -10,7 +10,7 @@ Andrea's research interests are in the domain of banking and applied econometric
 "[*Bank Lending and the European Debt Crisis: Evidence from a New Survey*](https://www.ijcb.org/journal/ijcb23q1a5.htm)." International Journal of Central Banking 19.1 (2023): 243-300.
 
 ## Working papers
-"*Macroprudential Regulation, Quantitative Easing,and Bank Lending*" with Rodney Ramcharan and Roberto Robatto\\
+"*Macroprudential Regulation, Quantitative Easing, and Bank Lending*" with Rodney Ramcharan and Roberto Robatto\\
 "*Conversations with Loan Officers: Covid and the Credit Market in the Early Stages of the Crisis*"
 
 ## Policy papers
