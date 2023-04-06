@@ -1,4 +1,4 @@
-# <p align="center"> [*Andrea Orame*](https://andreaorame.github.io/) </p>
+# [*Andrea Orame*](https://andreaorame.github.io/)
 
 Economist at Bank of Italy - andrea.orame@bancaditalia.it
 
