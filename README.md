@@ -10,7 +10,7 @@ Andrea's research interests are in the domain of financial intermediation and ap
 "[Bank Lending and the European Debt Crisis: Evidence from a New Survey](https://www.ijcb.org/journal/ijcb23q1a5.htm)." *International Journal of Central Banking* 19.1 (2023): 243-300
 
 ## Working papers
-"Macroprudential Regulation, Quantitative Easing, and Bank Lending*" with Rodney Ramcharan and Roberto Robatto\\
+"Macroprudential Regulation, Quantitative Easing, and Bank Lending" with [Rodney Ramcharan](https://sites.google.com/site/rodneyramcharan/) and [Roberto Robatto](https://sites.google.com/site/robertorobatto/home)\\
 "Conversations with Loan Officers: Covid and the Credit Market in the Early Stages of the Crisis"
 
 ## Policy papers
