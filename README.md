@@ -20,7 +20,7 @@ Andrea's research interests are in the domain of financial intermediation and ap
 "Business Incubators in Italy", various authors
 
 ## Teaching
-Monetary Economics and Credit (University of Turin) 2015/2016\\
+Monetary Economics and Credit (University of Turin) [2015/2016](https://github.com/andreaorame/andreaorame.github.io/blob/main/syllabus_eng_2016.pdf)\\
 Monetary Economics and Credit (University of Turin) 2016/2017\\
 Monetary Economics and Credit (University of Turin) 2017/2018\\
 Monetary Economics and Credit (University of Turin) 2018/2019
