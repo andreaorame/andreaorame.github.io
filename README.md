@@ -1,4 +1,4 @@
-# [*Andrea Orame*](https://andreaorame.github.io/)
+# [Andrea Orame](https://andreaorame.github.io/)
 
 Economist at Bank of Italy - andrea.orame@bancaditalia.it
 
