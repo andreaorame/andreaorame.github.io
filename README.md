@@ -11,7 +11,7 @@ Andrea's research interests are in the domain of financial intermediation and ap
 
 ## Working papers
 "[Macroprudential Regulation, Quantitative Easing, and Bank Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3802634)" with [Rodney Ramcharan](https://sites.google.com/site/rodneyramcharan/) and [Roberto Robatto](https://sites.google.com/site/robertorobatto/home)\\
-"[Conversations with Loan Officers: Policy Intervention and the Functioning of the Credit Market during a Crisis](href="master.pdf")" 
+"[Conversations with Loan Officers: Policy Intervention and the Functioning of the Credit Market during a Crisis](master.pdf)" 
 
 ## Policy papers
 "[Estimating the Effects of a Credit Supply Restriction: Is There a Bias in the Bank Lending Survey?](https://www.bancaditalia.it/pubblicazioni/qef/2015-0266/index.html?com.dotmarketing.htmlpage.language=1)" with Andrea Nobili\\
