@@ -7,10 +7,10 @@ Research interests: financial intermediation, monetary and macroprudential polic
 Andrea's research interests are in the domain of financial intermediation and applied econometrics. His work covered the role of bank supply during European debt crisis, the interaction of unconventional and macroprudential policy and the functioning of credit market during the COVID crisis. He developed an expertise on loan officers' survey data on which he is currently working to improve our understanding on how banks' expectations shape the business and the credit cycle.
 
 ## Published paper
-"[Bank Lending and the European Debt Crisis: Evidence from a New Survey](https://www.ijcb.org/journal/ijcb23q1a5.htm)." *International Journal of Central Banking* 19.1 (2023): 243-300
+"[Bank Lending and the European Debt Crisis: Evidence from a New Survey](https://www.ijcb.org/journal/ijcb23q1a5.htm)." *International Journal of Central Banking* 19.1 (2023): 243-300\\
+"[Macroprudential Regulation, Quantitative Easing, and Bank Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3802634)" with [Rodney Ramcharan](https://sites.google.com/site/rodneyramcharan/) and [Roberto Robatto](https://sites.google.com/site/robertorobatto/home) *Forthcoming, Review of Financial Studies*
 
 ## Working papers
-"[Macroprudential Regulation, Quantitative Easing, and Bank Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3802634)" with [Rodney Ramcharan](https://sites.google.com/site/rodneyramcharan/) and [Roberto Robatto](https://sites.google.com/site/robertorobatto/home)\\
 "[Policy Intervention and the Functioning of the Credit Market during a Crisis](master.pdf)" (new version)
 
 ## Policy papers
