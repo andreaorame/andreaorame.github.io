@@ -14,7 +14,7 @@ Andrea's research interests are in the domain of financial intermediation and ap
 "[The Household Channel of Lending to Firms"](master.pdf)" (new version)
 
 ## Policy notes
-"[Banks' operational resilience during pandemics](https://www.bancaditalia.it/pubblicazioni/qef/2024-0833/index.html?com.dotmarketing.htmlpage.language=1&dotcache=refresh&dotcache=refresh)", various authors\\
+"[Banks' Operational Resilience during Pandemics](https://www.bancaditalia.it/pubblicazioni/qef/2024-0833/index.html?com.dotmarketing.htmlpage.language=1&dotcache=refresh&dotcache=refresh)", various authors\\
 "[The Digital Transformation in the Italian Banking Sector](https://www.bancaditalia.it/pubblicazioni/qef/2022-0682/index.html?com.dotmarketing.htmlpage.language=1)", various authors\\
 "Online Banking Services and Branch Networks" with Amanda Carmignani, Marco Manile and Marcello Pagnini\\
 "[Estimating the Effects of a Credit Supply Restriction: Is There a Bias in the Bank Lending Survey?](https://www.bancaditalia.it/pubblicazioni/qef/2015-0266/index.html?com.dotmarketing.htmlpage.language=1)" with Andrea Nobili\\
