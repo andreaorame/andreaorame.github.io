@@ -11,7 +11,7 @@ Andrea's research interests are in the domain of financial intermediation and ap
 "[Macroprudential Regulation, Quantitative Easing, and Bank Lending](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3802634)" with [Rodney Ramcharan](https://sites.google.com/site/rodneyramcharan/) and [Roberto Robatto](https://sites.google.com/site/robertorobatto/home) *Forthcoming, Review of Financial Studies*
 
 ## Working papers
-"[The Household Channel of Lending to Firms"](master.pdf)" (new version)
+"[From Firms to Families: The Ripple Effects of Credit Support Policies"](master.pdf)" (new version)
 
 ## Policy notes
 "[Banks' Operational Resilience during Pandemics](https://www.bancaditalia.it/pubblicazioni/qef/2024-0833/index.html?com.dotmarketing.htmlpage.language=1&dotcache=refresh&dotcache=refresh)", various authors\\
