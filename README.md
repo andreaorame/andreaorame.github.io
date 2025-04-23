@@ -7,9 +7,10 @@ Research interests: financial intermediation, monetary and macroprudential polic
 Andrea's research interests are in the domain of financial intermediation and applied econometrics. His work covered the role of bank supply during European debt crisis, the interaction of unconventional and macroprudential policy and the functioning of credit market during the COVID crisis. He developed an expertise on loan officers' survey data on which he is currently working to improve our understanding on how banks' expectations shape the business and the credit cycle.
 
 ## Published paper
-"[Macroprudential Regulation, Quantitative Easing, and Bank Lending](https://academic.oup.com/rfs/article/38/5/1545/7921423?login=true)" with [Rodney Ramcharan](https://sites.google.com/site/rodneyramcharan/) and [Roberto Robatto](https://sites.google.com/site/robertorobatto/home). *Review of Financial Studies* 38.5 (2025): 1545-1593\\
-"[Bank Lending and the European Debt Crisis: Evidence from a New Survey](https://www.ijcb.org/journal/ijcb23q1a5.htm)." *International Journal of Central Banking* 19.1 (2023): 243-300\\
-
+"[Macroprudential Regulation, Quantitative Easing, and Bank Lending](https://academic.oup.com/rfs/article/38/5/1545/7921423?login=true)" with [Rodney Ramcharan](https://sites.google.com/site/rodneyramcharan/) and [Roberto Robatto](https://sites.google.com/site/robertorobatto/home).\\
+*Review of Financial Studies* 38.5 (2025): 1545-1593\\
+"[Bank Lending and the European Debt Crisis: Evidence from a New Survey](https://www.ijcb.org/journal/ijcb23q1a5.htm)."\\
+*International Journal of Central Banking* 19.1 (2023): 243-300\\
 
 ## Working papers
 "[From Firms to Families: The Ripple Effects of Credit Support Policies"](master.pdf) (new version)
